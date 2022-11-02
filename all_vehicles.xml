@@ -14,9 +14,9 @@
     <vehicle_class>wheeled</vehicle_class>
     <pilots/>
     <films>
-		<film>https://swapi.dev/api/films/1/</film>
-		<film>https://swapi.dev/api/films/5/</film>
-	</films>	
+        <film>https://swapi.dev/api/films/1/</film>
+        <film>https://swapi.dev/api/films/5/</film>
+    </films>    
     <created>2014-12-10T15:36:25.724000Z</created>
     <edited>2014-12-20T21:30:21.661000Z</edited>
     <url>https://swapi.dev/api/vehicles/4/</url>
@@ -34,9 +34,9 @@
     <consumables>0</consumables>
     <vehicle_class>repulsorcraft</vehicle_class>
     <pilots/>
-	<films>
-		<film>https://swapi.dev/api/films/1/</film>
-	</films>
+    <films>
+        <film>https://swapi.dev/api/films/1/</film>
+    </films>
     <created>2014-12-10T16:01:52.434000Z</created>
     <edited>2014-12-20T21:30:21.665000Z</edited>
     <url>https://swapi.dev/api/vehicles/6/</url>
@@ -54,9 +54,9 @@
     <consumables>unknown</consumables>
     <vehicle_class>repulsorcraft</vehicle_class>
     <pilots/>
-	<films>
-		<film>https://swapi.dev/api/films/1/</film>
-	</films>
+    <films>
+        <film>https://swapi.dev/api/films/1/</film>
+    </films>
     <created>2014-12-10T16:13:52.586000Z</created>
     <edited>2014-12-20T21:30:21.668000Z</edited>
     <url>https://swapi.dev/api/vehicles/7/</url>
@@ -74,11 +74,11 @@
     <consumables>2 days</consumables>
     <vehicle_class>starfighter</vehicle_class>
     <pilots/>
-	<films>
-	    <film>https://swapi.dev/api/films/1/</film>
-		<film>https://swapi.dev/api/films/2/</film>
-		<film>https://swapi.dev/api/films/3/</film>
-	</films>
+    <films>
+        <film>https://swapi.dev/api/films/1/</film>
+        <film>https://swapi.dev/api/films/2/</film>
+        <film>https://swapi.dev/api/films/3/</film>
+    </films>
     <created>2014-12-10T16:33:52.860000Z</created>
     <edited>2014-12-20T21:30:21.670000Z</edited>
     <url>https://swapi.dev/api/vehicles/8/</url>
@@ -95,13 +95,13 @@
     <cargo_capacity>10</cargo_capacity>
     <consumables>none</consumables>
     <vehicle_class>airspeeder</vehicle_class>
-	<pilots>
-		<pilot>https://swapi.dev/api/people/1/</pilot>
-		<pilot>https://swapi.dev/api/people/18/</pilot>
-	</pilots>
-	<films>
-		<film>https://swapi.dev/api/films/2/</film>
-	</films>
+    <pilots>
+        <pilot>https://swapi.dev/api/people/1/</pilot>
+        <pilot>https://swapi.dev/api/people/18/</pilot>
+    </pilots>
+    <films>
+        <film>https://swapi.dev/api/films/2/</film>
+    </films>
     <created>2014-12-15T12:22:12Z</created>
     <edited>2014-12-20T21:30:21.672000Z</edited>
     <url>https://swapi.dev/api/vehicles/14/</url>
@@ -119,10 +119,10 @@
     <consumables>2 days</consumables>
     <vehicle_class>space/planetary bomber</vehicle_class>
     <pilots/>
-	<films>
-		<film>https://swapi.dev/api/films/2/</film>
-		<film>https://swapi.dev/api/films/3/</film>
-	</films>
+    <films>
+        <film>https://swapi.dev/api/films/2/</film>
+        <film>https://swapi.dev/api/films/3/</film>
+    </films>
     <created>2014-12-15T12:33:15.838000Z</created>
     <edited>2014-12-20T21:30:21.675000Z</edited>
     <url>https://swapi.dev/api/vehicles/16/</url>
@@ -140,10 +140,10 @@
     <consumables>unknown</consumables>
     <vehicle_class>assault walker</vehicle_class>
     <pilots/>
-	<films>
-		<film>https://swapi.dev/api/films/2/</film>
-		<film>https://swapi.dev/api/films/3/</film>
-	</films>
+    <films>
+        <film>https://swapi.dev/api/films/2/</film>
+        <film>https://swapi.dev/api/films/3/</film>
+    </films>
     <created>2014-12-15T12:38:25.937000Z</created>
     <edited>2014-12-20T21:30:21.677000Z</edited>
     <url>https://swapi.dev/api/vehicles/18/</url>
@@ -160,14 +160,14 @@
     <cargo_capacity>200</cargo_capacity>
     <consumables>none</consumables>
     <vehicle_class>walker</vehicle_class>
-	<pilots>
-		<pilot>https://swapi.dev/api/people/13/</pilot>
-	</pilots>
-	<films>
-		<film>https://swapi.dev/api/films/2/</film>
-		<film>https://swapi.dev/api/films/3/</film>
+    <pilots>
+        <pilot>https://swapi.dev/api/people/13/</pilot>
+    </pilots>
+    <films>
+        <film>https://swapi.dev/api/films/2/</film>
+        <film>https://swapi.dev/api/films/3/</film>
     </films>
-	<created>2014-12-15T12:46:42.384000Z</created>
+    <created>2014-12-15T12:46:42.384000Z</created>
     <edited>2014-12-20T21:30:21.679000Z</edited>
     <url>https://swapi.dev/api/vehicles/19/</url>
   </vehicle>
@@ -184,10 +184,10 @@
     <consumables>1 day</consumables>
     <vehicle_class>repulsorcraft</vehicle_class>
     <pilots/>
-	<films>
-		<film>https://swapi.dev/api/films/2/</film>
+    <films>
+        <film>https://swapi.dev/api/films/2/</film>
     </films>
-	<created>2014-12-15T12:58:50.530000Z</created>
+    <created>2014-12-15T12:58:50.530000Z</created>
     <edited>2014-12-20T21:30:21.681000Z</edited>
     <url>https://swapi.dev/api/vehicles/20/</url>
   </vehicle>
@@ -204,9 +204,9 @@
     <consumables>Live food tanks</consumables>
     <vehicle_class>sail barge</vehicle_class>
     <pilots/>
-	<films>
-		<film>https://swapi.dev/api/films/3/</film>
-	</films>
+    <films>
+        <film>https://swapi.dev/api/films/3/</film>
+    </films>
     <created>2014-12-18T10:44:14.217000Z</created>
     <edited>2014-12-20T21:30:21.684000Z</edited>
     <url>https://swapi.dev/api/vehicles/24/</url>
@@ -224,9 +224,9 @@
     <consumables>1 day</consumables>
     <vehicle_class>repulsorcraft cargo skiff</vehicle_class>
     <pilots/>
-	<films>
-		<film>https://swapi.dev/api/films/3/</film>
-	</films>
+    <films>
+        <film>https://swapi.dev/api/films/3/</film>
+    </films>
     <created>2014-12-18T10:48:03.208000Z</created>
     <edited>2014-12-20T21:30:21.688000Z</edited>
     <url>https://swapi.dev/api/vehicles/25/</url>
@@ -244,9 +244,9 @@
     <consumables>2 days</consumables>
     <vehicle_class>starfighter</vehicle_class>
     <pilots/>
-	<films>
-		<film>https://swapi.dev/api/films/3/</film>
-	</films>
+    <films>
+        <film>https://swapi.dev/api/films/3/</film>
+    </films>
     <created>2014-12-18T10:50:28.225000Z</created>
     <edited>2014-12-20T21:30:21.691000Z</edited>
     <url>https://swapi.dev/api/vehicles/26/</url>
@@ -263,13 +263,13 @@
     <cargo_capacity>4</cargo_capacity>
     <consumables>1 day</consumables>
     <vehicle_class>speeder</vehicle_class>
-	<pilots>
-		<pilot>https://swapi.dev/api/people/1/</pilot>
-		<pilot>https://swapi.dev/api/people/5/</pilot>
-	</pilots>
-	<films>
-		<film>https://swapi.dev/api/films/3/</film>
-	</films>
+    <pilots>
+        <pilot>https://swapi.dev/api/people/1/</pilot>
+        <pilot>https://swapi.dev/api/people/5/</pilot>
+    </pilots>
+    <films>
+        <film>https://swapi.dev/api/films/3/</film>
+    </films>
     <created>2014-12-18T11:20:04.625000Z</created>
     <edited>2014-12-20T21:30:21.693000Z</edited>
     <url>https://swapi.dev/api/vehicles/30/</url>
@@ -287,11 +287,11 @@
     <consumables>none</consumables>
     <vehicle_class>starfighter</vehicle_class>
     <pilots/>
-	<films>
-		<film>https://swapi.dev/api/films/4/</film>
-		<film>https://swapi.dev/api/films/6/</film>
+    <films>
+        <film>https://swapi.dev/api/films/4/</film>
+        <film>https://swapi.dev/api/films/6/</film>
     </films>
-	<created>2014-12-19T17:09:53.584000Z</created>
+    <created>2014-12-19T17:09:53.584000Z</created>
     <edited>2014-12-20T21:30:21.697000Z</edited>
     <url>https://swapi.dev/api/vehicles/33/</url>
   </vehicle>
@@ -308,9 +308,9 @@
     <consumables>unknown</consumables>
     <vehicle_class>repulsorcraft</vehicle_class>
     <pilots/>
-	<films>
-		<film>https://swapi.dev/api/films/4/</film>
-	</films>
+    <films>
+        <film>https://swapi.dev/api/films/4/</film>
+    </films>
     <created>2014-12-19T17:12:04.400000Z</created>
     <edited>2014-12-20T21:30:21.700000Z</edited>
     <url>https://swapi.dev/api/vehicles/34/</url>
@@ -328,10 +328,10 @@
     <consumables>unknown</consumables>
     <vehicle_class>repulsorcraft</vehicle_class>
     <pilots/>
-	<films>
-		<film>https://swapi.dev/api/films/4/</film>
+    <films>
+        <film>https://swapi.dev/api/films/4/</film>
     </films>
-	<created>2014-12-19T17:13:29.799000Z</created>
+    <created>2014-12-19T17:13:29.799000Z</created>
     <edited>2014-12-20T21:30:21.703000Z</edited>
     <url>https://swapi.dev/api/vehicles/35/</url>
   </vehicle>
@@ -348,10 +348,10 @@
     <consumables>none</consumables>
     <vehicle_class>repulsorcraft</vehicle_class>
     <pilots/>
-	<films>
-		<film>https://swapi.dev/api/films/4/</film>
+    <films>
+        <film>https://swapi.dev/api/films/4/</film>
     </films>
-	<created>2014-12-19T17:15:09.511000Z</created>
+    <created>2014-12-19T17:15:09.511000Z</created>
     <edited>2014-12-20T21:30:21.705000Z</edited>
     <url>https://swapi.dev/api/vehicles/36/</url>
   </vehicle>
@@ -368,10 +368,10 @@
     <consumables>1 day</consumables>
     <vehicle_class>landing craft</vehicle_class>
     <pilots/>
-	<films>
-		<film>https://swapi.dev/api/films/4/</film>
+    <films>
+        <film>https://swapi.dev/api/films/4/</film>
     </films>
-	<created>2014-12-19T17:20:36.373000Z</created>
+    <created>2014-12-19T17:20:36.373000Z</created>
     <edited>2014-12-20T21:30:21.707000Z</edited>
     <url>https://swapi.dev/api/vehicles/37/</url>
   </vehicle>
@@ -387,14 +387,14 @@
     <cargo_capacity>1600</cargo_capacity>
     <consumables>unknown</consumables>
     <vehicle_class>submarine</vehicle_class>
-	<pilots>
-		<pilot>https://swapi.dev/api/people/10/</pilot>
-		<pilot>https://swapi.dev/api/people/32/</pilot>
-	</pilots>
+    <pilots>
+        <pilot>https://swapi.dev/api/people/10/</pilot>
+        <pilot>https://swapi.dev/api/people/32/</pilot>
+    </pilots>
     <films>
-		<film>https://swapi.dev/api/films/4/</film>
+        <film>https://swapi.dev/api/films/4/</film>
     </films>
-	<created>2014-12-19T17:37:37.924000Z</created>
+    <created>2014-12-19T17:37:37.924000Z</created>
     <edited>2014-12-20T21:30:21.710000Z</edited>
     <url>https://swapi.dev/api/vehicles/38/</url>
   </vehicle>
@@ -410,12 +410,12 @@
     <cargo_capacity>2</cargo_capacity>
     <consumables>unknown</consumables>
     <vehicle_class>speeder</vehicle_class>
-	<pilots>
-		<pilot>https://swapi.dev/api/people/44/</pilot>
-	</pilots>
-	<films>
-		<film>https://swapi.dev/api/films/4/</film>
-	</films>
+    <pilots>
+        <pilot>https://swapi.dev/api/people/44/</pilot>
+    </pilots>
+    <films>
+        <film>https://swapi.dev/api/films/4/</film>
+    </films>
     <created>2014-12-20T10:09:56.095000Z</created>
     <edited>2014-12-20T21:30:21.712000Z</edited>
     <url>https://swapi.dev/api/vehicles/42/</url>
@@ -432,12 +432,12 @@
     <cargo_capacity>200</cargo_capacity>
     <consumables>none</consumables>
     <vehicle_class>repulsorcraft</vehicle_class>
-	<pilots>
-		<pilot>https://swapi.dev/api/people/11/</pilot>
-	</pilots>
-	<films>
-		<film>https://swapi.dev/api/films/5/</film>
-	</films>	
+    <pilots>
+        <pilot>https://swapi.dev/api/people/11/</pilot>
+    </pilots>
+    <films>
+        <film>https://swapi.dev/api/films/5/</film>
+    </films>    
     <created>2014-12-20T16:24:16.026000Z</created>
     <edited>2014-12-20T21:30:21.714000Z</edited>
     <url>https://swapi.dev/api/vehicles/44/</url>
@@ -454,12 +454,12 @@
     <cargo_capacity>80</cargo_capacity>
     <consumables>unknown</consumables>
     <vehicle_class>airspeeder</vehicle_class>
-	<pilots>
-		<pilot>https://swapi.dev/api/people/70/</pilot>
-	</pilots>
-	<films>
-		<film>https://swapi.dev/api/films/5/</film>
-	</films>
+    <pilots>
+        <pilot>https://swapi.dev/api/people/70/</pilot>
+    </pilots>
+    <films>
+        <film>https://swapi.dev/api/films/5/</film>
+    </films>
     <created>2014-12-20T17:17:33.526000Z</created>
     <edited>2014-12-20T21:30:21.716000Z</edited>
     <url>https://swapi.dev/api/vehicles/45/</url>
@@ -476,12 +476,12 @@
     <cargo_capacity>unknown</cargo_capacity>
     <consumables>unknown</consumables>
     <vehicle_class>airspeeder</vehicle_class>
-	<pilots>
-		<pilot>https://swapi.dev/api/people/11/</pilot>
-	</pilots>
-	<films>
-		<film>https://swapi.dev/api/films/5/</film>
-	</films>
+    <pilots>
+        <pilot>https://swapi.dev/api/people/11/</pilot>
+    </pilots>
+    <films>
+        <film>https://swapi.dev/api/films/5/</film>
+    </films>
     <created>2014-12-20T17:19:19.991000Z</created>
     <edited>2014-12-20T21:30:21.719000Z</edited>
     <url>https://swapi.dev/api/vehicles/46/</url>
@@ -499,10 +499,10 @@
     <consumables>unknown</consumables>
     <vehicle_class>gunship</vehicle_class>
     <pilots/>
-	<films>
-		<film>https://swapi.dev/api/films/5/</film>
-		<film>https://swapi.dev/api/films/6/</film>
-	</films>
+    <films>
+        <film>https://swapi.dev/api/films/5/</film>
+        <film>https://swapi.dev/api/films/6/</film>
+    </films>
     <created>2014-12-20T18:01:21.014000Z</created>
     <edited>2014-12-20T21:30:21.723000Z</edited>
     <url>https://swapi.dev/api/vehicles/50/</url>
@@ -520,9 +520,9 @@
     <consumables>unknown</consumables>
     <vehicle_class>gunship</vehicle_class>
     <pilots/>
-	<films>
-		<film>https://swapi.dev/api/films/5/</film>
-	</films>
+    <films>
+        <film>https://swapi.dev/api/films/5/</film>
+    </films>
     <created>2014-12-20T18:02:46.802000Z</created>
     <edited>2014-12-20T21:30:21.725000Z</edited>
     <url>https://swapi.dev/api/vehicles/51/</url>
@@ -540,10 +540,10 @@
     <consumables>21 days</consumables>
     <vehicle_class>walker</vehicle_class>
     <pilots/>
-	<films>
-		<film>https://swapi.dev/api/films/5/</film>
-		<film>https://swapi.dev/api/films/6/</film>
-	</films>
+    <films>
+        <film>https://swapi.dev/api/films/5/</film>
+        <film>https://swapi.dev/api/films/6/</film>
+    </films>
     <created>2014-12-20T18:10:07.560000Z</created>
     <edited>2014-12-20T21:30:21.728000Z</edited>
     <url>https://swapi.dev/api/vehicles/53/</url>
@@ -561,10 +561,10 @@
     <consumables>7 days</consumables>
     <vehicle_class>walker</vehicle_class>
     <pilots/>
-	<films>
-		<film>https://swapi.dev/api/films/5/</film>
+    <films>
+        <film>https://swapi.dev/api/films/5/</film>
     </films>
-	<created>2014-12-20T18:12:32.315000Z</created>
+    <created>2014-12-20T18:12:32.315000Z</created>
     <edited>2014-12-20T21:30:21.731000Z</edited>
     <url>https://swapi.dev/api/vehicles/54/</url>
   </vehicle>
@@ -580,12 +580,12 @@
     <cargo_capacity>unknown</cargo_capacity>
     <consumables>unknown</consumables>
     <vehicle_class>speeder</vehicle_class>
-	<pilots>
-		<pilot>https://swapi.dev/api/people/67/</pilot>
-	</pilots>
-	<films>
-		<film>https://swapi.dev/api/films/5/</film>
-	</films>
+    <pilots>
+        <pilot>https://swapi.dev/api/people/67/</pilot>
+    </pilots>
+    <films>
+        <film>https://swapi.dev/api/films/5/</film>
+    </films>
     <created>2014-12-20T18:15:20.312000Z</created>
     <edited>2014-12-20T21:30:21.735000Z</edited>
     <url>https://swapi.dev/api/vehicles/55/</url>
@@ -603,11 +603,11 @@
     <consumables>7 days</consumables>
     <vehicle_class>transport</vehicle_class>
     <pilots/>
-	<films>
-		<film>https://swapi.dev/api/films/5/</film>
-		<film>https://swapi.dev/api/films/6/</film>
+    <films>
+        <film>https://swapi.dev/api/films/5/</film>
+        <film>https://swapi.dev/api/films/6/</film>
     </films>
-	<created>2014-12-20T18:25:44.912000Z</created>
+    <created>2014-12-20T18:25:44.912000Z</created>
     <edited>2014-12-20T21:30:21.739000Z</edited>
     <url>https://swapi.dev/api/vehicles/56/</url>
   </vehicle>
@@ -624,10 +624,10 @@
     <consumables>unknown</consumables>
     <vehicle_class>starfighter</vehicle_class>
     <pilots/>
-	<films>
-		<film>https://swapi.dev/api/films/5/</film>
+    <films>
+        <film>https://swapi.dev/api/films/5/</film>
     </films>
-	<created>2014-12-20T18:34:12.541000Z</created>
+    <created>2014-12-20T18:34:12.541000Z</created>
     <edited>2014-12-20T21:30:21.742000Z</edited>
     <url>https://swapi.dev/api/vehicles/57/</url>
   </vehicle>
